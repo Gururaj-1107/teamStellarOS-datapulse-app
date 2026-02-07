@@ -28,7 +28,7 @@ Backend
 AI Integration
 • OpenAI API (for chatbot insights)
 Deployment
-• Localhost / Cloud deployment ready
+• Localhost / Cloud deployment ready (vercel)
 • GitHub repository based development
 
 ---
@@ -77,7 +77,7 @@ Supabase → Settings → API
 
 ---
 
-7. API Endpoints
+API Endpoints
    Create Next.js API routes:
    /api/activities
    POST: Log activity
@@ -97,7 +97,7 @@ Supabase → Settings → API
    GET all courses
    POST enroll user
 
-Database
+Database:
 Supabase is used as the primary database.
 Tables used:
 • users
@@ -109,20 +109,18 @@ Realtime is enabled to track live user actions.
 
 ---
 
-AI Chatbot
+AI Chatbot: OpenAI Model used with key also given for fetching the requested query.
 The chatbot:
 • Answers course-related questions
 • Logs queries in the database
 • Uses OpenAI API for generating responses
 
 ---
-
 Admin Panel
 Admin features include:
 • Viewing user analytics
 • Tracking activities
 • Monitoring course engagement
-
 ---
 
 Architecture Overview
