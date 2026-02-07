@@ -1,4 +1,5 @@
 ---
+Our Deployed website link(Vercel): https://team-stellar-os-datapulse-app.vercel.app/
 DataPulse – AI-Powered Learning Analytics Platform (Team StellarOS)
 DataPulse is a real-time analytics and monitoring platform designed for EdTech environments. It tracks user activity, analyzes learning behavior, and provides AI-driven insights to improve engagement and course effectiveness.
 This system integrates real-time databases, analytics dashboards, and an AI chatbot to deliver actionable insights.
